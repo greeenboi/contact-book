@@ -1,0 +1,3 @@
+C:/Users/suvan/python/address book ui/cpp/cmake-build-debug/CMakeFiles/cpp.dir
+C:/Users/suvan/python/address book ui/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/suvan/python/address book ui/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
